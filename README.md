@@ -1,5 +1,5 @@
 # r9kstricter
-Makes the R9K mode for posts stricter on LynxChan 2.4. The default R9K mode in LynxChan is flawed because beginning your post with a quoted post number (>>1234) is often enough to circumvent the R9K filter. This addon makes R9K mode ignore if a post starts with a quoted post number and only checks the actual post message for uniqueness. This makes circumventing the filter harder because you can't simply start your post with a quoted post number to circumvent it anymore.
+Makes the R9K mode for posts stricter on LynxChan 2.6. The default R9K mode in LynxChan is flawed because beginning your post with a quoted post number (>>1234) is often enough to circumvent the R9K filter. This addon makes R9K mode ignore if a post starts with a quoted post number and only checks the actual post message for uniqueness. This makes circumventing the filter harder because you can't simply start your post with a quoted post number to circumvent it anymore.
 
 <b>Installation instructions:</b>
 

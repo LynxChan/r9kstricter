@@ -2,7 +2,7 @@
 
 var r9k = require("../../engine/r9k")
 
-exports.engineVersion = "2.4";
+exports.engineVersion = "2.6";
 
 exports.init = function() {
 	
